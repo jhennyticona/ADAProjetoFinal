@@ -1,6 +1,8 @@
 # ADAProjetoFinal
 Um Projeto final para o curso da ADA
 
+Nome dos participantes: Cristian da Silva Laurentino
+
 ## Diagrama de Classes
 
 ```mermaid
